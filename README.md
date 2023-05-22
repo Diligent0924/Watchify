@@ -1,5 +1,7 @@
 # Watchify
 <img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/72a0fbfe7369455b93797b281b3728da/KakaoTalk_20230519_104227916.png"  width="1000" height="600"/>
+![image](https://github.com/Diligent0924/Watchify/assets/62194486/51fc7e30-2373-40da-b542-c308f6fb3bbc)
+
 
 다양한 컨텐츠를 스케줄링 받아 OTT를 보다 알차게 사용해보세요!
 
