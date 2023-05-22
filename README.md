@@ -1,5 +1,5 @@
 # Watchify
-<img src="https://github.com/Diligent0924/Watchify/assets/62194486/cdcf988a-dcf3-434e-8d67-50f0738ba2e3"  width="1000" height="500"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/a160ec31-b444-4f13-bbdd-22ae482aaaa8"  width="1200" height="600"/>
 
 
 다양한 컨텐츠를 스케줄링 받아 OTT를 보다 알차게 사용해보세요!
@@ -81,8 +81,8 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 사용자 기반 협업 필터링을 사용하여 개인별로 컨텐츠를 추천합니다. 사용자가 시청하거나 별점을 매기거나, 혹은 위시리스트에 추가한 컨텐츠를 기반으로 컨텐츠를 추천합니다.
 <br>
 
-<img src="https://github.com/Diligent0924/Watchify/assets/62194486/5dbf3824-1265-49ce-aa5d-a69940e76466"  width="600" height="400"/>
-<img src="https://github.com/Diligent0924/Watchify/assets/62194486/ea8d255f-5014-4392-a070-64b62ba256b9"  width="600" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/5dbf3824-1265-49ce-aa5d-a69940e76466"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/ea8d255f-5014-4392-a070-64b62ba256b9"  width="200" height="400"/>
 
 ### 1. 추천 알고리즘
 1. DB 조회
@@ -137,15 +137,6 @@ SNS 로그인으로 사용자가 간편하게 서비스에 접근할 수 있도�
 
 <br>
 
-# UCC
-<br>
-
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/cfe08b35a127b2c71c38a7b76c378c2f/KakaoTalk_20230518_154739032.mp4"  width="200" height="400"/>
-<!-- <video controls>
-  <source src="영상 파일 경로 또는 URL" type="video/확장자">
-  대체 텍스트
-</video> -->
-
 # 기술 스택
 ## Frontend
 - React
@@ -186,13 +177,13 @@ Django rest_framework의 APIView를 사용하여 rest api를 구성하였습니�
 # 프로젝트 산출물
 ### 데이터베이스
    
-![ERD](https://lab.ssafy.com/s08-final/S08P31A207/-/raw/main/OUTPUT/ERD.png)
+![ERD](https://github.com/Diligent0924/Watchify/assets/62194486/abfa6767-b50b-4ea9-ba55-4bc355219a17)
 
 ### 시스템 아키텍처
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/637b7a08a27e2e7818c5409761eef5a2/아키텍쳐.jpg"  width="1000" height="500"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/adc952f9-a97b-43a5-84c9-b6b164db0d03"  width="1000" height="500"/>
 
 ### Figma
 
-![Figma1](https://lab.ssafy.com/s08-final/S08P31A207/-/raw/main/OUTPUT/readme/Figma1.png)
+![Figma1](https://github.com/Diligent0924/Watchify/assets/62194486/15154d3a-2351-42b4-aa92-edf873791508)
 
-![Figma2](https://lab.ssafy.com/s08-final/S08P31A207/-/raw/main/OUTPUT/readme/Figma2.png)
+![Figma2](https://github.com/Diligent0924/Watchify/assets/62194486/222d4679-bf2c-4aeb-a1c3-84e107bba990)
