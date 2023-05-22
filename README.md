@@ -1,6 +1,5 @@
 # Watchify
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/72a0fbfe7369455b93797b281b3728da/KakaoTalk_20230519_104227916.png"  width="1000" height="600"/>
-![image](https://github.com/Diligent0924/Watchify/assets/62194486/51fc7e30-2373-40da-b542-c308f6fb3bbc)
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/cdcf988a-dcf3-434e-8d67-50f0738ba2e3"  width="1000" height="500"/>
 
 
 다양한 컨텐츠를 스케줄링 받아 OTT를 보다 알차게 사용해보세요!
@@ -46,21 +45,21 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 - 깔끔한 UI를 위해 black과 orenge 컬러를 사용하였습니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/dfcccaa8dfa8d4cbe8cfe7474fb5c895/디자인1.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/c5484f1b-d7b3-48c5-adcd-d932a55392fe"  width="200" height="400"/>
 
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/613ed2d10d60d7c062a78b20d52f6371/디자인2.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/35e34501-dad9-4c97-b20f-af42dcda83c6"  width="200" height="400"/>
 
 # 서비스 소개
 ## 컨텐츠 스케줄링
 사용자가 시청하기 원하는 컨텐츠를 사용자의 시청 패턴에 맞도록, OTT 구독 정보에 맞춰 스케줄링합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/3f59c9802097e08844328803dd3ae52b/스케쥴.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/386700b0-0f5b-401e-9efe-67d24f941fc9"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/f38304f83f10edeb6fe8105955e98d48/스케쥴목록.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/b2ada86b-a00a-43d2-8f2c-22c687789994"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/f2bcbb8816397c775deab1a528185d42/스케쥴결과.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/ab3e0209-865d-4715-b4be-0b1018456d22"  width="200" height="400"/>
 
 
 ### 1. 시청 패턴 지정
@@ -82,7 +81,8 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 사용자 기반 협업 필터링을 사용하여 개인별로 컨텐츠를 추천합니다. 사용자가 시청하거나 별점을 매기거나, 혹은 위시리스트에 추가한 컨텐츠를 기반으로 컨텐츠를 추천합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/55142cc8c87953b74b1c4d85ddf3ce21/컨텐츠추천.gif"  width="600" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/5dbf3824-1265-49ce-aa5d-a69940e76466"  width="600" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/ea8d255f-5014-4392-a070-64b62ba256b9"  width="600" height="400"/>
 
 ### 1. 추천 알고리즘
 1. DB 조회
@@ -106,31 +106,33 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 실시간 검색 기능을 통하여 사용자가 검색을 더 빠르고 편하게 할 수 있도록 도움을 주며 찜 등을 통하여 이후 스케쥴링 알고리즘 등에 포함되어 들어가게 하는 기능
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/27d88c5e69809a64735f200220005f87/검색_기능.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/ccfa919b-d690-40e3-989d-b9a57690ad52"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/31c657d08a4960f463a26eb0c85dbc31/검색결과.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/9a1bc8b7-01bb-4856-bd19-452ce018afec"  width="200" height="400"/>
 
 ## 간편 로그인
 SNS 로그인으로 사용자가 간편하게 서비스에 접근할 수 있도록 합니다. 카카오톡과 구글 로그인을 지원합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/d3d03307050db61d25436ff1c7b651e4/Kakao_.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/8aa1535e-e6b2-4ee3-aae4-530857e21dac"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/4e0128544fb0c8bb756831a6ba20c294/Google.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/936c99e0-c7b0-4719-97b0-b8b5673d4bae"  width="200" height="400"/>
 
 ## 알람 및 공유
 ### 알람
 프로필 페이지의 설정 탭에서 알람 on/off 기능으로 알람을 설정할 수 있습니다. 알람을 on으로 설정한다면, 매일 정해진 시간에 오늘의 시청 스케줄을 알림합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/d8d7b8adde9ee242b243f1ae5250e266/마이페이지.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/e67e7df1-4b2d-4e61-b7cd-197cbe188eb9"  width="200" height="400"/>
 
 
 ### 공유
 컨텐츠 시청 스케줄을 받은 후, 스케줄 페이지에서 카카오톡 공유하기를 통해 공유할 수 있습니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/52f6c8dabc2e03134a8ed442148f3621/공유_기능.gif"  width="200" height="400"/>
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/20444f3c-79e4-4e87-8f08-28f36eb78ff6"  width="200" height="400"/>
+
+<img src="https://github.com/Diligent0924/Watchify/assets/62194486/da09e942-a529-46bf-850f-88d75634666d"  width="200" height="400"/>
 
 
 <br>
